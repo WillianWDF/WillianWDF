@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/WillianWDF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianWDF&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Willian Damázio Félix github stats"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianWDF&layout=compact&hide_border=true&langs_count=7&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianWDF&layout=compact&hide_border=true&langs_count=7&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
   
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=WillianWDF&theme=gotham&hide_border=true&area=true)
